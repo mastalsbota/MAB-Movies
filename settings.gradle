@@ -1,0 +1,2 @@
+rootProject.name = "MAB Movies"
+include ':app'
